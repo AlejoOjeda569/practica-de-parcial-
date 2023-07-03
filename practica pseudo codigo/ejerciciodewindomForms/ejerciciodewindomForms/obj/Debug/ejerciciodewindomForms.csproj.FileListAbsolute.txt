@@ -1,0 +1,11 @@
+C:\Users\alejo\OneDrive\Escritorio\practica pseudo codigo\ejerciciodewindomForms\ejerciciodewindomForms\bin\Debug\ejerciciodewindomForms.exe.config
+C:\Users\alejo\OneDrive\Escritorio\practica pseudo codigo\ejerciciodewindomForms\ejerciciodewindomForms\bin\Debug\ejerciciodewindomForms.exe
+C:\Users\alejo\OneDrive\Escritorio\practica pseudo codigo\ejerciciodewindomForms\ejerciciodewindomForms\bin\Debug\ejerciciodewindomForms.pdb
+C:\Users\alejo\OneDrive\Escritorio\practica pseudo codigo\ejerciciodewindomForms\ejerciciodewindomForms\obj\Debug\ejerciciodewindomForms.csproj.AssemblyReference.cache
+C:\Users\alejo\OneDrive\Escritorio\practica pseudo codigo\ejerciciodewindomForms\ejerciciodewindomForms\obj\Debug\ejerciciodewindomForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\alejo\OneDrive\Escritorio\practica pseudo codigo\ejerciciodewindomForms\ejerciciodewindomForms\obj\Debug\ejerciciodewindomForms.escritorio.resources
+C:\Users\alejo\OneDrive\Escritorio\practica pseudo codigo\ejerciciodewindomForms\ejerciciodewindomForms\obj\Debug\ejerciciodewindomForms.Properties.Resources.resources
+C:\Users\alejo\OneDrive\Escritorio\practica pseudo codigo\ejerciciodewindomForms\ejerciciodewindomForms\obj\Debug\ejerciciodewindomForms.csproj.GenerateResource.cache
+C:\Users\alejo\OneDrive\Escritorio\practica pseudo codigo\ejerciciodewindomForms\ejerciciodewindomForms\obj\Debug\ejerciciodewindomForms.csproj.CoreCompileInputs.cache
+C:\Users\alejo\OneDrive\Escritorio\practica pseudo codigo\ejerciciodewindomForms\ejerciciodewindomForms\obj\Debug\ejerciciodewindomForms.exe
+C:\Users\alejo\OneDrive\Escritorio\practica pseudo codigo\ejerciciodewindomForms\ejerciciodewindomForms\obj\Debug\ejerciciodewindomForms.pdb

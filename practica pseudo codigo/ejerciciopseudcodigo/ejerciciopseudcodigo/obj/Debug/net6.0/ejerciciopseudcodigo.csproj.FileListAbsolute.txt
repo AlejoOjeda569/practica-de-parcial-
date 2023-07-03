@@ -1,0 +1,15 @@
+C:\Users\alejo\OneDrive\Escritorio\practica pseudo codigo\ejerciciopseudcodigo\ejerciciopseudcodigo\bin\Debug\net6.0\ejerciciopseudcodigo.exe
+C:\Users\alejo\OneDrive\Escritorio\practica pseudo codigo\ejerciciopseudcodigo\ejerciciopseudcodigo\bin\Debug\net6.0\ejerciciopseudcodigo.deps.json
+C:\Users\alejo\OneDrive\Escritorio\practica pseudo codigo\ejerciciopseudcodigo\ejerciciopseudcodigo\bin\Debug\net6.0\ejerciciopseudcodigo.runtimeconfig.json
+C:\Users\alejo\OneDrive\Escritorio\practica pseudo codigo\ejerciciopseudcodigo\ejerciciopseudcodigo\bin\Debug\net6.0\ejerciciopseudcodigo.dll
+C:\Users\alejo\OneDrive\Escritorio\practica pseudo codigo\ejerciciopseudcodigo\ejerciciopseudcodigo\bin\Debug\net6.0\ejerciciopseudcodigo.pdb
+C:\Users\alejo\OneDrive\Escritorio\practica pseudo codigo\ejerciciopseudcodigo\ejerciciopseudcodigo\obj\Debug\net6.0\ejerciciopseudcodigo.csproj.AssemblyReference.cache
+C:\Users\alejo\OneDrive\Escritorio\practica pseudo codigo\ejerciciopseudcodigo\ejerciciopseudcodigo\obj\Debug\net6.0\ejerciciopseudcodigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\OneDrive\Escritorio\practica pseudo codigo\ejerciciopseudcodigo\ejerciciopseudcodigo\obj\Debug\net6.0\ejerciciopseudcodigo.AssemblyInfoInputs.cache
+C:\Users\alejo\OneDrive\Escritorio\practica pseudo codigo\ejerciciopseudcodigo\ejerciciopseudcodigo\obj\Debug\net6.0\ejerciciopseudcodigo.AssemblyInfo.cs
+C:\Users\alejo\OneDrive\Escritorio\practica pseudo codigo\ejerciciopseudcodigo\ejerciciopseudcodigo\obj\Debug\net6.0\ejerciciopseudcodigo.csproj.CoreCompileInputs.cache
+C:\Users\alejo\OneDrive\Escritorio\practica pseudo codigo\ejerciciopseudcodigo\ejerciciopseudcodigo\obj\Debug\net6.0\ejerciciopseudcodigo.dll
+C:\Users\alejo\OneDrive\Escritorio\practica pseudo codigo\ejerciciopseudcodigo\ejerciciopseudcodigo\obj\Debug\net6.0\refint\ejerciciopseudcodigo.dll
+C:\Users\alejo\OneDrive\Escritorio\practica pseudo codigo\ejerciciopseudcodigo\ejerciciopseudcodigo\obj\Debug\net6.0\ejerciciopseudcodigo.pdb
+C:\Users\alejo\OneDrive\Escritorio\practica pseudo codigo\ejerciciopseudcodigo\ejerciciopseudcodigo\obj\Debug\net6.0\ejerciciopseudcodigo.genruntimeconfig.cache
+C:\Users\alejo\OneDrive\Escritorio\practica pseudo codigo\ejerciciopseudcodigo\ejerciciopseudcodigo\obj\Debug\net6.0\ref\ejerciciopseudcodigo.dll
